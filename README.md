@@ -27,7 +27,7 @@ Welcome to the world's most unnecessarily complex solution for a straightforward
 Please don't take this README (or the code) too seriously. This project is intended for humorous purposes only.
 
 ### Diagram
-```
+```mermaid
 graph TD
 A(Start)
 B[Load users.txt]
